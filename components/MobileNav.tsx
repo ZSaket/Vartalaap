@@ -32,10 +32,10 @@ const MobileNav = () => {
               src="/icons/logo.svg"
               width={32}
               height={32}
-              alt="AstroMeet logo"
+              alt="Vartalaap logo"
               className="max-sm:size-10"
             />
-            <p className="text-[26px] font-bold text-foreground">AstroMeet</p>
+            <p className="text-[26px] font-bold text-foreground">Vartalaap</p>
           </Link>
           <div className="flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto">
             <SheetClose asChild>

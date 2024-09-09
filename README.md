@@ -1,10 +1,10 @@
-# AstroMeet 🚀
+# Vartalaap 🚀
 
-AstroMeet is a video conferencing platform built with a modern tech stack including Next.js, TypeScript, TailwindCSS, Clerk for authentication, GetStream.io for real-time video magic, and shadcn/ui for components 🪄
+Vartalaap is a video conferencing platform built with a modern tech stack including Next.js, TypeScript, TailwindCSS, Clerk for authentication, GetStream.io for real-time video magic, and shadcn/ui for components 🪄
 
 ## Live Demo 🎉
 
-Try it out live: [AstroMeet](https://astromeet.vercel.app/)
+Try it out live: [Vartalaap](https://Vartalaap.vercel.app/)
 
 ## Key Features ✨
 
@@ -30,7 +30,7 @@ Try it out live: [AstroMeet](https://astromeet.vercel.app/)
 
 ## Installation 🛠️
 
-To set up AstroMeet locally, follow these steps:
+To set up Vartalaap locally, follow these steps:
 
 1. **Clone the repository:**
 
@@ -72,5 +72,5 @@ To set up AstroMeet locally, follow these steps:
 
 ---
 
-AstroMeet is designed to provide a robust and user-friendly video conferencing experience.
+Vartalaap is designed to provide a robust and user-friendly video conferencing experience.
 For any issues, feel free to open an issue on this repository.

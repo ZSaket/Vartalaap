@@ -11,11 +11,11 @@ const Navbar = () => {
           src="/icons/logo.svg"
           width={32}
           height={32}
-          alt="AstroMeet logo"
+          alt="Vartalaap logo"
           className="max-sm:size-10"
         />
         <p className="text-[26px] font-bold text-foreground max-sm:hidden">
-          AstroMeet
+          Vartalaap
         </p>
       </Link>
       <div className="flex justify-between items-center gap-5">
