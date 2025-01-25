@@ -4,7 +4,7 @@ Vartalaap is a video conferencing platform built with a modern tech stack includ
 
 ## Live Demo 🎉
 
-Try it out live: [Vartalaap]([https://Vartalaap.vercel.app/](https://vartalaap-ochre.vercel.app/))
+Try it out live: [Vartalaap](https://vartalaap-ochre.vercel.app/)
 
 ## Key Features ✨
 
